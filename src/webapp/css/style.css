@@ -1,0 +1,19 @@
+.table {
+    font-size: 14px;
+    background: white;
+    width: 33%;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 0 auto 20px;
+}
+
+th {
+
+    font-weight: normal;
+    border-bottom: 2px solid red;
+    padding: 10px 8px;
+}
+
+td {
+    transition: .3s linear;
+}
